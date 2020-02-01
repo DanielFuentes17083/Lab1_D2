@@ -117,7 +117,7 @@ void main(void) {                                                               
         PORTB = playerP[0];
         PORTC = seg[0];
         PORTDbits.RD3 = 0;                                                              //Reinicio de variables y puertos al final del juego
-        PORTDbits.RD4 = 0;                                                              //Hola jose
+        PORTDbits.RD4 = 0;                                                              //Adios jose
         PORTDbits.RD0 = 0;
         PORTDbits.RD1 = 0;
         PORTDbits.RD2 = 0;
